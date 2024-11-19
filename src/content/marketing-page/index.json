@@ -16,11 +16,11 @@
     },
     "images": [
       {
-        "src": "ocp25e-fnv-header-gen-r.png"
+        "src": "ocp25e-fnv-header-gen-right.png"
       }
     ],
     "background": {
-      "src": ""
+      "src": "ocp25e-fnv-header-gen-r.png"
     }
   },
   "countdown": {
