@@ -16,11 +16,11 @@
     },
     "images": [
       {
-        "src": "ocp25e-fnv-header-gen-right.png"
+        "src": "ocp25e-header-right.png"
       }
     ],
     "background": {
-      "src": "ocp25e-fnv-header-gen-r.png"
+      "src": "ocp25e-header-left.png"
     }
   },
   "countdown": {
@@ -40,7 +40,7 @@
       "display": true,
       "title": "",
       "image": {
-        "src": "ocp25e-fnv-hlschedule_v5.jpg"
+        "src": "ocp25e-hl-schedule_v6.png"
       }
     },
     "content": {
@@ -56,7 +56,7 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp25e-fnv-marketing-gen-space1.png",
+            "src": "ocp25e-space1.png",
             "link": "https://www.opencompute.org/summit/regional-summit"
           }
         ]
@@ -66,8 +66,28 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp25e-fnv-marketing-gen-space2.png",
+            "src": "ocp25e-space2.png",
             "link": "https://www.opencompute.org/membership/how-to-join"
+          }
+        ]
+      },
+      {
+        "placement": "Mid  Left",
+        "size": 1,
+        "images": [
+          {
+            "src": "ocp25e-space3.png",
+            "link": "https://www.opencompute.org/summit/regional-summit"
+          }
+        ]
+      },
+      {
+        "placement": "Mid Right",
+        "size": 1,
+        "images": [
+          {
+            "src": "ocp25e-space4.png",
+            "link": "/a/schedule"
           }
         ]
       },
@@ -76,19 +96,20 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp25e-fnv-marketing-gen-space3.png",
-            "link": "https://www.opencompute.org/events/past-events/2024-ocp-global-summit"
+            "src": "ocp25e-space5.png",
+            "link": "https://www.opencompute.org/summit/regional-summit"
           }
         ]
       },
       {
         "placement": "Bottom Right",
-        "size": 1,
         "images": [
           {
-            "src": "ocp25e-fnv-marketing-gen-space4.png"
+            "src": "ocp25e-space6.png",
+            "link": "https://www.opencompute.org/events/upcoming-events"
           }
-        ]
+        ],
+        "size": 1
       }
     ]
   }
