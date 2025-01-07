@@ -16,11 +16,11 @@
     },
     "images": [
       {
-        "src": "ocp25e-header-right.png"
+        "src": "ocp25e-header-right_2.png"
       }
     ],
     "background": {
-      "src": "ocp25e-header-left.png"
+      "src": "ocp25e-header-left_2.png"
     }
   },
   "countdown": {
