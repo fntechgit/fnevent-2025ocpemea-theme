@@ -2538,10 +2538,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.148":
-  version "2.0.148"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.148.tgz#979863d3f548f398cb5357e7595830ed900c537d"
-  integrity sha512-0Gz1+8qAjZKWWNI7ZrK+yW4kUcf5RVkh201GH+9BDBJ4Nlntlxw70L5JpXjomekA6OdX+RziUvv3zD1bhq8HnQ==
+"@openeventkit/event-site@2.0.149":
+  version "2.0.149"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.149.tgz#7901ef0b0982fae437307343b985623e8dacd122"
+  integrity sha512-q59SmVut8CrBNzbT2QgWXpXoSAYjYQ8G/AqiOG5VJRGNNuqxQ/VtlfYSTP7TxKcJke4XYYfEOv2u8nFtgefbuQ==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
     "@fortawesome/free-brands-svg-icons" "^6.5.2"
@@ -2569,7 +2569,7 @@
     "@vimeo/player" "^2.16.3"
     ably "^1.2.34"
     assert "^2.1.0"
-    attendee-to-attendee-widget "3.2.1-beta.6"
+    attendee-to-attendee-widget "3.3.0"
     autoprefixer "10.4.14"
     awesome-bootstrap-checkbox "^1.0.1"
     axios "^0.19.2"
@@ -2668,7 +2668,7 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "5.0.42"
+    summit-registration-lite "5.0.43"
     superagent "8.0.9"
     sweetalert2 "^9.17.0"
     upcoming-events-widget "3.0.7"
@@ -5021,10 +5021,10 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-attendee-to-attendee-widget@3.2.1-beta.6:
-  version "3.2.1-beta.6"
-  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-3.2.1-beta.6.tgz#bdab7b45771dec0d7119a00aff55eb27cc36a9b9"
-  integrity sha512-ICvpckynREXQTx7PH2m1lsyJIX7MFjIEPw2qzT864qIQm5C+hEAyBbc62A5PTtsmIz/bPA6tyzERUDTO5kuwfA==
+attendee-to-attendee-widget@3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-3.3.0.tgz#a653730cd9d5ed479a8a311fedeffa40db0f2f1b"
+  integrity sha512-KVdoOEPzP+GDZHkXZDwMaDkjpbiUHW1m0OubSf2yXQfRpbjFXUTgk3/exWfkk5/KDK6vj1a0rM0l2pdRRhpTsQ==
   dependencies:
     "@supabase/supabase-js" "2.45.1"
     formik "^2.2.6"
@@ -17987,10 +17987,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@5.0.42:
-  version "5.0.42"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.42.tgz#3895e0915e99f9e3f814dd8fddf65ff6a873b1fa"
-  integrity sha512-FlIXnvprlNEJ128X5FxhoTfVG4YO5AT6LQ/6RnEpId7eePr7jHcwhxO4IvzUpkWorjGhd+aouYFu8bBaDa10RQ==
+summit-registration-lite@5.0.43:
+  version "5.0.43"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.43.tgz#53ccc81062299abf1eecb4a3db1d529aff579303"
+  integrity sha512-XBom/BymL9JVp1Mez0HuVof3NPGi+KjeDTbdYPzcnVOwfDUOuTuFECYgd5XWTxolH33nMCy1FB5vTq8LgsPHCg==
   dependencies:
     "@emotion/react" "^11.11.1"
     "@emotion/styled" "^11.11.0"
