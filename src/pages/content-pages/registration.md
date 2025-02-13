@@ -27,7 +27,7 @@ Registration fees include: Access to all sessions (keynotes, executive sessions,
 
 **Media and Analyst Registration**
 
-To apply for a media pass, please click here. Press passes are only for professional analysts or members of the media. Once received, someone at OCP will contact you with next steps.  Please allow 3 to 5 business days for a response.
+To apply for a media pass, please [click here](https://docs.google.com/forms/d/e/1FAIpQLScMbHd02aAjx9nLuYaoE3JSdu92OcZ0mmZuy9JtmscaHN7qzg/viewform?usp=header). Press passes are only for professional analysts or members of the media. Once received, someone at OCP will contact you with next steps.  Please allow 3 to 5 business days for a response.
 
 **Cancellation Policy**
 
@@ -53,4 +53,4 @@ Navigate to the Regional Summit event site: <https://2025ocpemea.fnvirtual.app/>
 
 Click the “Log in” button. Use the same authentication process you used above. Once you have been authenticated, a new link called “My Orders/Tickets” will appear in the green top nav bar. Click this link to see your order/tickets for this event.
 
-Click here to view the OCP event Terms and Conditions (PDF)
+[Click here](https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/4f179c1dba34a93353e9cee6877e5357d22c38c8.pdf) to view the OCP event Terms and Conditions (PDF)
