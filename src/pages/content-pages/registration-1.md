@@ -9,9 +9,9 @@ userRequirement: NONE
 
 **Location:** The Convention Centre Dublin - Dublin, Ireland
 
-**<br>**
+<br/>
 
-Please find the registration dates and fees below. This is an in-person event with no virtual component. Please direct any questions to [registration@opencompute.org.](mailto:registration@opencompute.org)
+Please find the registration dates and fees below. This is an in-person event with no virtual component. Please direct any questions to [registration@opencompute.org](mailto:registration@opencompute.org).
 
 **Registration Options**
 
@@ -33,23 +33,17 @@ To apply for a media pass, please [click here](https://docs.google.com/forms/d/e
 
 A request to cancel your ticket must be emailed to [registration@opencompute.org](mailto:registration@opencompute.org). Requests received prior to February 28 will receive a full refund. No refunds will be given after February 28. Only the ticket purchaser may transfer a ticket to someone else. Please log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options.
 
-
-
 **How to Register:**
 
-
-
-Navigate to the Regional Summit event site:  <https://2025ocpemea.fnvirtual.app/>
+Navigate to the Regional Summit event site: [https://2025ocpemea.fnvirtual.app/](https://2025ocpemea.fnvirtual.app/)
 
 Click the “Register now” button. Follow the log in instructions to authenticate yourself (this lets us know who you are) and complete the registration process. 
 
-**<br>**
+<br/>
 
 **How to find your orders/tickets:**
 
-
-
-Navigate to the Regional Summit event site: <https://2025ocpemea.fnvirtual.app/>
+Navigate to the Regional Summit event site: [https://2025ocpemea.fnvirtual.app/](https://2025ocpemea.fnvirtual.app/)
 
 Click the “Log in” button. Use the same authentication process you used above. Once you have been authenticated, a new link called “My Orders/Tickets” will appear in the green top nav bar. Click this link to see your order/tickets for this event.
 
