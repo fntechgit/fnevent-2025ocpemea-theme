@@ -18,7 +18,7 @@
       "showOnlyAtShowTime": false,
       "title": "REGISTRATION",
       "link": "/registration",
-      "display": true
+      "display": false
     },
     {
       "title": "SCHEDULE",
