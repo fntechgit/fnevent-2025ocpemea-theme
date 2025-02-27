@@ -49,6 +49,16 @@
       "display": true
     },
     {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "SPONSORS",
+      "link": "/sponsors",
+      "display": true
+    },
+    {
       "title": "CONTACT",
       "link": "/contact",
       "display": true,
