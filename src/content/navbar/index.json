@@ -44,6 +44,16 @@
         "ANY"
       ],
       "showOnlyAtShowTime": false,
+      "title": "OCP SITE",
+      "link": "https://www.opencompute.org/summit/emea-summit",
+      "display": true
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
       "title": "TRAVEL",
       "link": "/travel",
       "display": true
